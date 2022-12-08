@@ -1,6 +1,6 @@
 
 
-![image](https://user-images.githubusercontent.com/76260241/206490982-ffb36c7f-a79a-460a-84f3-adc969c070c9.png)
+https://nithin9700.github.io/E-commerce/
 
 ## Welcome! 👋
 
