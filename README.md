@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+![image](https://user-images.githubusercontent.com/76260241/206490982-ffb36c7f-a79a-460a-84f3-adc969c070c9.png)
 
 ## Welcome! 👋
 
